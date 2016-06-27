@@ -1,0 +1,636 @@
+Okonomi / Yuji Ramen	{'lat': 40.7125377, 'lng': -73.948781}
+Momofuku Nishi	{'lat': 40.7443485, 'lng': -73.9988078}
+The Cecil	{'lat': 40.8047705, 'lng': -73.952519}
+High Street on Hudson	{'lat': 40.7388849, 'lng': -74.005693}
+Han Dynasty	{'lat': 40.7322262, 'lng': -73.9882804}
+Abyssinia	{'lat': 40.8160287, 'lng': -73.9460698}
+Murray’s Cheese Bar	{'lat': 40.731215, 'lng': -74.003164}
+El Cortez	{'lat': 40.707104, 'lng': -73.933081}
+Avra Estiatorio	{'lat': 40.755118, 'lng': -73.9725204}
+Llama Inn	{'lat': 40.7166288, 'lng': -73.9504256}
+Vaucluse	{'lat': 40.7650839, 'lng': -73.9677516}
+Houseman	{'lat': 40.7257281, 'lng': -74.0093323}
+Lowlife	{'lat': 40.7202093, 'lng': -73.9839799}
+Babu Ji	{'lat': 40.7274843, 'lng': -73.9791939}
+Quality Eats	{'lat': 40.7344783, 'lng': -74.0001118}
+Oiji	{'lat': 40.727263, 'lng': -73.985845}
+Le Veau d’Or	{'lat': 40.76317429999999, 'lng': -73.9681073}
+Avant Garden	{'lat': 40.72611199999999, 'lng': -73.983963}
+Sushi Azabu / Azabu	{'lat': 40.72243, 'lng': -74.0099244}
+Virginia’s	{'lat': 40.7266747, 'lng': -73.97724649999999}
+Bruno	{'lat': 40.7322828, 'lng': -73.9873456}
+Gabriel Kreuther	{'lat': 40.7545385, 'lng': -73.9824993}
+Jams	{'lat': 40.76473370000001, 'lng': -73.9765262}
+Timna	{'lat': 40.7271969, 'lng': -73.9839263}
+Seamore’s	{'lat': 40.7206673, 'lng': -73.99691}
+Brooklyn Bavarian Biergarten	{'lat': 40.6638453, 'lng': -73.9894115}
+Superiority Burger	{'lat': 40.7274495, 'lng': -73.98362279999999}
+Wildair	{'lat': 40.7200288, 'lng': -73.98915370000002}
+Mulino a Vino	{'lat': 40.74067109999999, 'lng': -74.0042437}
+Ganso Yaki	{'lat': 40.68550520000001, 'lng': -73.98038199999999}
+Faro	{'lat': 40.707428, 'lng': -73.922845}
+Little Park	{'lat': 40.7152366, 'lng': -74.0091553}
+The Black Ant	{'lat': 40.72571600000001, 'lng': -73.9892979}
+Shuko	{'lat': 40.7336366, 'lng': -73.99161289999999}
+Chomp Chomp	{'lat': 40.7317455, 'lng': -74.00166829999999}
+Charlie Palmer at the Knick	{'lat': 40.7554172, 'lng': -73.9862223}
+Rosie’s	{'lat': 40.72493999999999, 'lng': -73.990821}
+The Four Horsemen	{'lat': 40.71308399999999, 'lng': -73.95733400000002}
+Lupulo	{'lat': 40.7468785, 'lng': -73.9902168}
+Gaia Italian Café	{'lat': 40.7216887, 'lng': -73.9853325}
+Streetbird	{'lat': 40.804356, 'lng': -73.9556935}
+Rebelle	{'lat': 40.7219651, 'lng': -73.9937594}
+Astoria Seafood	{'lat': 40.754094, 'lng': -73.9298302}
+Momofuku Ko	{'lat': 40.72484459999999, 'lng': -73.9916604}
+Racines NY	{'lat': 40.7145751, 'lng': -74.0075586}
+El Rey Coffee Bar & Luncheonette	{'lat': 40.72139019999999, 'lng': -73.98797189999999}
+Noreetuh	{'lat': 40.7272642, 'lng': -73.9851971}
+Bar Bolonat	{'lat': 40.73765710000001, 'lng': -74.0058562}
+Pizza, Pizza	{'lat': 40.704038, 'lng': -74.01047799999999}
+Javelina	{'lat': 40.7368197, 'lng': -73.9874428}
+Happy Ending	{'lat': 40.7189086, 'lng': -73.9922188}
+The Polo Bar	{'lat': 40.7617135, 'lng': -73.9743749}
+Café Clover	{'lat': 40.72953699999999, 'lng': -74.002681}
+Tuome	{'lat': 40.7239978, 'lng': -73.9829489}
+Stella 34	{'lat': 40.75033000000001, 'lng': -73.9883415}
+Cosme	{'lat': 40.7396162, 'lng': -73.9883565}
+Beijing Pop Kabob	{'lat': 40.7178094, 'lng': -73.99794899999999}
+The Eddy	{'lat': 40.7264545, 'lng': -73.98667}
+Via Carota	{'lat': 40.73314380000001, 'lng': -74.0036545}
+Greenpoint Fish & Lobster Co.	{'lat': 40.7241445, 'lng': -73.94908889999999}
+Balvanera	{'lat': 40.72063310000001, 'lng': -73.98539199999999}
+La Savane	{'lat': 40.80423800000001, 'lng': -73.9542159}
+Awadh	{'lat': 40.7955935, 'lng': -73.9707039}
+Turntable Mad for Chicken	{'lat': 40.74709139999999, 'lng': -73.9858429}
+Shun Lee West	{'lat': 40.7728366, 'lng': -73.9813891}
+Upland	{'lat': 40.74185179999999, 'lng': -73.98477249999999}
+White Street	{'lat': 40.7191375, 'lng': -74.00609790000001}
+King Bee	{'lat': 40.727626, 'lng': -73.983761}
+Nobu New York	{'lat': 40.719455, 'lng': -74.0089232}
+Emmett’s	{'lat': 40.72732459999999, 'lng': -74.0024635}
+Brooklyn Beet Company	{'lat': 40.63326999999999, 'lng': -74.02669500000002}
+Dirty French	{'lat': 40.721946, 'lng': -73.987285}
+Gotham West Market	{'lat': 40.76227069999999, 'lng': -73.9967042}
+Hometown Bar-B-Que	{'lat': 40.674858, 'lng': -74.016021}
+Dimes	{'lat': 40.7149638, 'lng': -73.99154639999999}
+The Gorbals	{'lat': 40.7184749, 'lng': -73.96066739999999}
+Élan	{'lat': 40.7388132, 'lng': -73.9884539}
+Bâtard	{'lat': 40.7195598, 'lng': -74.0057489}
+The Pavilion Market Cafe	{'lat': 40.7364469, 'lng': -73.9899162}
+Rockaway Beach Surf Club	{'lat': 40.5888048, 'lng': -73.8121584}
+Two if by Sea	{'lat': 40.7324849, 'lng': -74.00259299999999}
+Barchetta	{'lat': 40.7476268, 'lng': -74.0035374}
+Beyond Beirut	{'lat': 40.7302657, 'lng': -73.9830192}
+Schmear Campaign	{'lat': 40.7209046, 'lng': -73.99467779999999}
+The Runner	{'lat': 40.67723499999999, 'lng': -73.98599899999999}
+Tavern on the Green	{'lat': 40.7721848, 'lng': -73.9777806}
+Margaux	{'lat': 40.7326695, 'lng': -73.9967114}
+Navy	{'lat': 40.726811, 'lng': -74.0018583}
+Pickle Shack	{'lat': 40.6764663, 'lng': -73.9839604}
+Bunker	{'lat': 40.713963, 'lng': -73.9213473}
+Gato	{'lat': 40.7255794, 'lng': -73.9952599}
+The Writing Room	{'lat': 40.77945499999999, 'lng': -73.95092600000001}
+Little Lamb	{'lat': 40.7622731, 'lng': -73.82904049999999}
+Willow Road	{'lat': 40.74335299999999, 'lng': -74.008021}
+Telepan Local	{'lat': 40.77516, 'lng': -73.97992599999999}
+Narcissa	{'lat': 40.727868, 'lng': -73.990755}
+Contra	{'lat': 40.7199073, 'lng': -73.9891596}
+All’Onda	{'lat': 40.734742, 'lng': -73.993104}
+Foragers City Table	{'lat': 40.7446215, 'lng': -73.9993866}
+Betony	{'lat': 40.7641992, 'lng': -73.9762526}
+Empire Diner	{'lat': 40.7470924, 'lng': -74.0043727}
+Saul	{'lat': 40.6711464, 'lng': -73.96349599999999}
+Fung Tu	{'lat': 40.7153193, 'lng': -73.99141259999999}
+Rotisserie Georgette	{'lat': 40.764315, 'lng': -73.9716858}
+Café Nadery	{'lat': 40.7325172, 'lng': -73.9975116}
+Khe-Yo	{'lat': 40.7169041, 'lng': -74.0085972}
+Aita	{'lat': 40.6864843, 'lng': -73.9666208}
+Sushi Nakazawa	{'lat': 40.7317831, 'lng': -74.0045627}
+Piora	{'lat': 40.73063209999999, 'lng': -74.0065901}
+The Lambs Club	{'lat': 40.7565107, 'lng': -73.98464109999999}
+Charlie Bird	{'lat': 40.7277293, 'lng': -74.0029058}
+SkáL	{'lat': 40.7147797, 'lng': -73.9909249}
+Marco’s	{'lat': 40.7377171, 'lng': -73.9813949}
+Hunan Manor	{'lat': 40.74963, 'lng': -73.97704499999999}
+Toro	{'lat': 40.74335299999999, 'lng': -74.008021}
+City Grit	{'lat': 40.722922, 'lng': -73.9952265}
+Glasserie	{'lat': 40.737722, 'lng': -73.9561763}
+Shalom Japan	{'lat': 40.7091953, 'lng': -73.955883}
+Uncle Boons	{'lat': 40.7212894, 'lng': -73.994373}
+Chez José	{'lat': 40.7114518, 'lng': -73.9578567}
+Luksus	{'lat': 40.7234209, 'lng': -73.9507884}
+Atrium	{'lat': 41.0443691, 'lng': -73.6893904}
+Umami Burger	{'lat': 40.734368, 'lng': -73.99845599999999}
+Corvo Bianco	{'lat': 40.783664, 'lng': -73.9745372}
+The Elm	{'lat': 40.7209522, 'lng': -73.9556741}
+Estela	{'lat': 40.72464129999999, 'lng': -73.994739}
+Abc Cocina	{'lat': 40.7379803, 'lng': -73.98928409999999}
+The Cleveland	{'lat': 40.7218025, 'lng': -73.9970961}
+Antica Pesa	{'lat': 40.718802, 'lng': -73.95858849999999}
+Alder	{'lat': 40.7297315, 'lng': -73.9871813}
+Lafayette	{'lat': 40.7275934, 'lng': -73.9937017}
+Melibea	{'lat': 40.73706619999999, 'lng': -74.001691}
+Hanjan	{'lat': 40.7442454, 'lng': -73.99061520000001}
+Carbone	{'lat': 40.7279756, 'lng': -74.0002192}
+M. Wells Dinette	{'lat': 40.74556760000001, 'lng': -73.9470602}
+Pearl & Ash	{'lat': 40.9793465, 'lng': -74.12037269999999}
+Prospect	{'lat': 40.6861829, 'lng': -73.97373170000002}
+Le Philosophe	{'lat': 40.72570820000001, 'lng': -73.9926724}
+Chez Sardine	{'lat': 40.73438589999999, 'lng': -74.0027561}
+Mighty Quinn’s And John Brown Smokehouse	{'lat': 40.7275864, 'lng': -73.9886757}
+The Pines	{'lat': 40.67740690000001, 'lng': -73.98624389999999}
+Aamanns-Copenhagen	{'lat': 40.7216434, 'lng': -74.0058629}
+Arlington Club	{'lat': 40.7715683, 'lng': -73.9616992}
+The Marrow	{'lat': 40.7366596, 'lng': -74.0063594}
+Aska	{'lat': 40.7217263, 'lng': -73.95826830000001}
+Gaonnuri	{'lat': 40.7477417, 'lng': -73.9878746}
+Jones Wood Foundry	{'lat': 40.7703352, 'lng': -73.9536147}
+Ngam	{'lat': 40.732274, 'lng': -73.98762839999999}
+Mayfield	{'lat': 40.67496790000001, 'lng': -73.9566749}
+L’Apicio	{'lat': 40.724452, 'lng': -73.9915614}
+El Toro Blanco	{'lat': 40.7290016, 'lng': -74.0028432}
+Pig And Khao	{'lat': 40.7192889, 'lng': -73.9848269}
+La Vara	{'lat': 40.6878015, 'lng': -73.9957536}
+Ootoya	{'lat': 40.7548831, 'lng': -73.9859796}
+Allswell	{'lat': 40.7196611, 'lng': -73.955966}
+Chop Shop	{'lat': 40.7486895, 'lng': -74.0031554}
+Bobwhite Lunch & Supper Counter	{'lat': 40.7236452, 'lng': -73.9789804}
+Rosemary’s	{'lat': 40.7348221, 'lng': -73.999831}
+The Toucan And the Lion	{'lat': 40.7264381, 'lng': -73.98660459999999}
+Bistro Petit	{'lat': 40.711825, 'lng': -73.961219}
+Parish Hall	{'lat': 40.7168176, 'lng': -73.96162199999999}
+Swine	{'lat': 40.7342467, 'lng': -74.0064306}
+Hospoda	{'lat': 40.7691357, 'lng': -73.95640279999999}
+Mission Chinese Food	{'lat': 40.7138638, 'lng': -73.9896787}
+Reynards	{'lat': 40.7220175, 'lng': -73.9579519}
+Il Buco Alimentari E Vineria	{'lat': 40.7265231, 'lng': -73.99250099999999}
+Yunnan Kitchen	{'lat': 40.7189251, 'lng': -73.9852949}
+Catch	{'lat': 40.74010299999999, 'lng': -74.006193}
+Brooklyn Crab	{'lat': 40.6753539, 'lng': -74.0165422}
+Biang!	{'lat': 40.7297208, 'lng': -73.9871891}
+Super Linda	{'lat': 40.71608459999999, 'lng': -74.0085768}
+Perla	{'lat': 40.734322, 'lng': -74.0032389}
+Joanne Trattoria	{'lat': 40.77458, 'lng': -73.980238}
+La Promenade Des Anglais	{'lat': 40.7475828, 'lng': -74.0035305}
+Francesca	{'lat': 40.895892, 'lng': -73.778547}
+Pok Pok Ny	{'lat': 40.6875976, 'lng': -74.0012512}
+Alison Eighteen	{'lat': 40.7390765, 'lng': -73.99287749999999}
+Gwynnett St	{'lat': 40.713294, 'lng': -73.94387329999999}
+The Bowery Diner	{'lat': 40.7224992, 'lng': -73.9928523}
+Atera	{'lat': 40.7169139, 'lng': -74.0054324}
+ThirstbaràVin	{'lat': 40.679109, 'lng': -73.9583451}
+Littleneck	{'lat': 40.67731209999999, 'lng': -73.98630250000001}
+Wong	{'lat': 40.7162159, 'lng': -73.9983124}
+North End Grill	{'lat': 40.7153683, 'lng': -74.01545209999999}
+Acme	{'lat': 40.7272262, 'lng': -73.9940357}
+The Cannibal	{'lat': 40.74371989999999, 'lng': -73.98269789999999}
+Talde	{'lat': 40.6655453, 'lng': -73.98251359999999}
+Caffè Storico	{'lat': 40.7792645, 'lng': -73.9741937}
+Kutsher’s Tribeca	{'lat': 40.7195722, 'lng': -74.00963449999999}
+Rouge Et Blanc	{'lat': 40.7272819, 'lng': -74.00251949999999}
+Battersby	{'lat': 40.6831333, 'lng': -73.9927}
+Isa	{'lat': 40.7141435, 'lng': -73.9653175}
+Ciano	{'lat': 40.73980969999999, 'lng': -73.9873482}
+Nights And Weekends	{'lat': 40.72377669999999, 'lng': -73.9511156}
+David Burke Kitchen	{'lat': 40.7228066, 'lng': -74.0049013}
+Do or Dine	{'lat': 40.6867539, 'lng': -73.9547965}
+Whitehall	{'lat': 40.92253299999999, 'lng': -74.343673}
+Tertulia	{'lat': 40.73227, 'lng': -74.00084799999999}
+Boulud Sud	{'lat': 40.7715807, 'lng': -73.9811807}
+The Beagle	{'lat': 40.7281054, 'lng': -73.9818799}
+Redfarm	{'lat': 40.782092, 'lng': -73.980633}
+Untitled	{'lat': 40.7395846, 'lng': -74.00896759999999}
+Buvette	{'lat': 40.7326242, 'lng': -74.0043225}
+Kajitsu	{'lat': 40.7498632, 'lng': -73.97771469999999}
+Monument Lane	{'lat': 40.7378016, 'lng': -74.0020412}
+The Leopard at Des Artistes	{'lat': 40.77345569999999, 'lng': -73.978853}
+St. Anselm	{'lat': 40.7142631, 'lng': -73.9560616}
+Miss Lily’s Favourite Cakes	{'lat': 40.727946, 'lng': -74.001393}
+Earl’s Beer & Cheese	{'lat': 40.787375, 'lng': -73.951633}
+Legend Bar & Restaurant	{'lat': 40.7395867, 'lng': -73.9991958}
+Maison Premiere	{'lat': 40.714269, 'lng': -73.961715}
+Empellón	{'lat': 40.7341478, 'lng': -74.0030756}
+The Dutch	{'lat': 40.726522, 'lng': -74.00213459999999}
+Brushstroke	{'lat': 40.7166414, 'lng': -74.0089421}
+Imperial No. Nine	{'lat': 40.7198274, 'lng': -74.00008389999999}
+The Castello Plan	{'lat': 40.640384, 'lng': -73.966602}
+The Highliner	{'lat': 40.74711119999999, 'lng': -74.0043906}
+The Smile	{'lat': 40.7266349, 'lng': -73.9935508}
+Danji	{'lat': 40.76403440000001, 'lng': -73.9868499}
+Roberta’s	{'lat': 40.7050766, 'lng': -73.9335923}
+Fishtag	{'lat': 40.783363, 'lng': -73.9794342}
+Bell Book & Candle	{'lat': 40.7347337, 'lng': -74.00089419999999}
+Ai Fiori	{'lat': 40.7502014, 'lng': -73.9837903}
+Gentleman Farmer	{'lat': 40.7211119, 'lng': -73.99108}
+The John Dory Oyster Bar	{'lat': 40.7458198, 'lng': -73.988434}
+Lyon	{'lat': 40.71210629999999, 'lng': -74.21749860000001}
+M. Wells	{'lat': 40.7485158, 'lng': -73.9422488}
+Tortilleria Nixtamal	{'lat': 40.7459066, 'lng': -73.8593673}
+Porsena	{'lat': 40.7287255, 'lng': -73.98940619999999}
+Lincoln	{'lat': 40.77336669999999, 'lng': -73.9835466}
+Red Rooster Harlem	{'lat': 40.8080223, 'lng': -73.944821}
+Edi & the Wolf	{'lat': 40.7238208, 'lng': -73.9788238}
+Kin Shop	{'lat': 40.7357024, 'lng': -73.9983775}
+Seersucker	{'lat': 40.680596, 'lng': -73.99439149999999}
+Bab Al Yemen	{'lat': 40.63448289999999, 'lng': -74.02299579999999}
+Riverpark	{'lat': 40.73956330000001, 'lng': -73.97375}
+Hung Ry	{'lat': 40.828589, 'lng': -73.9165807}
+Annisa	{'lat': 40.7325755, 'lng': -74.00244289999999}
+Bohemian	{'lat': 40.7264133, 'lng': -73.9923574}
+Rubirosa	{'lat': 40.72275279999999, 'lng': -73.996233}
+Takashi	{'lat': 40.7314041, 'lng': -74.0064551}
+Millesime	{'lat': 40.74448599999999, 'lng': -73.98558}
+Jeffrey’s Grocery	{'lat': 40.7339819, 'lng': -74.0013788}
+The Fat Radish	{'lat': 40.715246, 'lng': -73.9918564}
+Umi Nom	{'lat': 40.6905056, 'lng': -73.9600464}
+Northern Spy Food Co.	{'lat': 40.72890669999999, 'lng': -73.98062259999999}
+Beer Table	{'lat': 40.62630550000001, 'lng': -74.3068361}
+The Chef’s Table at Brooklyn Fare	{'lat': 40.68864899999999, 'lng': -73.9858978}
+Vandaag	{'lat': 40.72755739999999, 'lng': -73.98866389999999}
+Il Matto	{'lat': 40.7225373, 'lng': -73.983879}
+Rabbit in the Moon	{'lat': 40.91577629999999, 'lng': -73.7708006}
+Mile End	{'lat': 40.6874553, 'lng': -73.9870655}
+Fatty ’Cue	{'lat': 40.7109716, 'lng': -73.9648564}
+Hecho En Dumbo	{'lat': 40.7268774, 'lng': -73.99196359999999}
+The Lion	{'lat': 40.733814, 'lng': -73.9987421}
+Balaboosta	{'lat': 40.72218549999999, 'lng': -73.9960662}
+The Plaza Food Hall	{'lat': 40.7646084, 'lng': -73.9743392}
+New for Fall	{'lat': 40.7420761, 'lng': -73.98538959999999}
+Lina Frey	{'lat': 40.7224003, 'lng': -73.9875078}
+Má PêChe	{'lat': 40.76280199999999, 'lng': -73.9755103}
+Luke’s Lobster	{'lat': 40.70348299999999, 'lng': -73.9941382}
+Pulino’s Bar And Pizzeria	{'lat': 40.7240971, 'lng': -73.9930672}
+Kaz an Nou	{'lat': 40.6811496, 'lng': -73.974192}
+Torrisi Italian Specialties	{'lat': 40.7230958, 'lng': -73.9956581}
+This Little Piggy Had Roast Beef	{'lat': 40.72842310000001, 'lng': -73.9849752}
+The Crosby Bar	{'lat': 40.7230823, 'lng': -73.99735319999999}
+Tanoreen	{'lat': 40.63082560000001, 'lng': -74.0278464}
+Faustina	{'lat': 40.72793160000001, 'lng': -73.9907857}
+Pies ’N’ Thighs	{'lat': 40.711183, 'lng': -73.9613664}
+The Mark Restaurant	{'lat': 40.775269, 'lng': -73.9633901}
+K! Pizzacone	{'lat': 40.7473468, 'lng': -73.985}
+Mari Vanna	{'lat': 40.7388749, 'lng': -73.988511}
+Abc Kitchen	{'lat': 40.73775819999999, 'lng': -73.989625}
+Casa Lever	{'lat': 40.7595244, 'lng': -73.9730768}
+La Sirène	{'lat': 40.72454330000001, 'lng': -74.0056666}
+Recette	{'lat': 40.73740900000001, 'lng': -74.006613}
+Village Tart	{'lat': 40.72111719999999, 'lng': -73.9967273}
+Roman’s	{'lat': 40.68960690000001, 'lng': -73.96949889999999}
+Le Caprice	{'lat': 40.765301, 'lng': -73.972256}
+A Voce Columbus	{'lat': 40.767899, 'lng': -73.98293900000002}
+Corsino	{'lat': 40.7388645, 'lng': -74.0057454}
+Colicchio & Sons	{'lat': 40.74322430000001, 'lng': -74.0077639}
+The Standard Grill	{'lat': 40.7406769, 'lng': -74.00787629999999}
+Maialino	{'lat': 40.7385232, 'lng': -73.9857366}
+The Breslin	{'lat': 40.7455679, 'lng': -73.9880891}
+Le Relais De Venise L’Entrecôte	{'lat': 40.7576914, 'lng': -73.9718188}
+Piccola Cucina	{'lat': 40.7250354, 'lng': -74.0032482}
+Fort Defiance	{'lat': 40.676611, 'lng': -74.013543}
+Tipsy Parson	{'lat': 40.7442597, 'lng': -74.0026699}
+Joseph Leonard	{'lat': 40.7335794, 'lng': -74.0016967}
+Sushi Uo	{'lat': 40.7192821, 'lng': -73.9854819}
+Bark Hot Dogs	{'lat': 40.6807911, 'lng': -73.975644}
+The Vanderbilt	{'lat': 40.679566, 'lng': -73.968332}
+Aureole	{'lat': 40.755633, 'lng': -73.985258}
+Quinto Quarto	{'lat': 40.72911000000001, 'lng': -74.00344919999999}
+Prime Meats	{'lat': 40.67717309999999, 'lng': -73.9981789}
+Saraghina	{'lat': 40.683621, 'lng': -73.93535969999999}
+Sho Shaun Hergatt	{'lat': 40.7059308, 'lng': -74.01176819999999}
+The Brooklyn Star	{'lat': 40.7145897, 'lng': -73.9496277}
+Warren 77	{'lat': 40.7150801, 'lng': -74.0103305}
+Gus And Gabriel	{'lat': 40.783312, 'lng': -73.979466}
+Locanda Verde	{'lat': 40.71992329999999, 'lng': -74.0099233}
+Marea	{'lat': 40.7674054, 'lng': -73.98105679999999}
+Hotel Griffou	{'lat': 40.73342600000001, 'lng': -73.9970032}
+Belcourt	{'lat': 40.7262067, 'lng': -73.9897159}
+Dbgb	{'lat': 40.7243801, 'lng': -73.9921432}
+Seasonal	{'lat': 40.76231999999999, 'lng': -73.976755}
+Harbour	{'lat': 40.93236529999999, 'lng': -73.7595252}
+Sorella	{'lat': 40.71874529999999, 'lng': -73.9909638}
+Minetta Tavern	{'lat': 40.7299922, 'lng': -74.00062009999999}
+Armani / Ristorante	{'lat': 40.7618891, 'lng': -73.974178}
+La Fonda Del Sol	{'lat': 40.753412, 'lng': -73.976601}
+Gottino And Wilfie & Nell	{'lat': 40.7340539, 'lng': -74.0031284}
+Socarrat	{'lat': 40.75532450000001, 'lng': -73.96851219999999}
+Bar Breton	{'lat': 40.74492879999999, 'lng': -73.98753719999999}
+Delicatessen	{'lat': 40.723558, 'lng': -73.99636799999999}
+Shang	{'lat': 40.72213920000001, 'lng': -73.9882654}
+Vinegar Hill House	{'lat': 40.70275499999999, 'lng': -73.9812884}
+Schnipper’s Quality Kitchen	{'lat': 40.75644779999999, 'lng': -73.9902017}
+Walter Foods	{'lat': 40.713555, 'lng': -73.958551}
+Co.	{'lat': 40.7471434, 'lng': -74.0005236}
+Lulu	{'lat': 40.69303899999999, 'lng': -73.972968}
+Corton	{'lat': 40.7195598, 'lng': -74.0057489}
+Buttermilk Channel	{'lat': 40.67599800000001, 'lng': -73.9992285}
+10 Downing Food & Wine	{'lat': 40.72953699999999, 'lng': -74.002681}
+L’Artusi	{'lat': 40.73380179999999, 'lng': -74.00515}
+The John Dory	{'lat': 40.7458198, 'lng': -73.988434}
+Txikito	{'lat': 40.74736849999999, 'lng': -74.0003645}
+Graffiti	{'lat': 40.72905, 'lng': -73.9856179}
+Braeburn	{'lat': 40.7352051, 'lng': -74.00681809999999}
+Dirt Candy	{'lat': 40.71790319999999, 'lng': -73.9907238}
+Flex Mussels	{'lat': 40.7763184, 'lng': -73.9564863}
+Café Select	{'lat': 40.7218158, 'lng': -73.9979244}
+Irving Mill	{'lat': 40.7354396, 'lng': -73.9884795}
+JoeDoe	{'lat': 40.7237362, 'lng': -73.989948}
+Secession	{'lat': 40.71681909999999, 'lng': -74.0092703}
+Char No. 4	{'lat': 40.6850666, 'lng': -73.9917638}
+Libertine	{'lat': 40.707894, 'lng': -74.007108}
+Convivio	{'lat': 40.68104299999999, 'lng': -73.977509}
+Allegretti	{'lat': 40.74170460000001, 'lng': -73.99246529999999}
+Yerba Buena	{'lat': 40.7229834, 'lng': -73.9861262}
+Matsugen	{'lat': 40.7174008, 'lng': -74.0057854}
+Apiary	{'lat': 40.7311967, 'lng': -73.98896080000002}
+No. 7	{'lat': 40.6860065, 'lng': -73.97308679999999}
+James	{'lat': 40.679016, 'lng': -73.9714834}
+Nizza	{'lat': 40.7599294, 'lng': -73.9911436}
+I Sodi	{'lat': 40.733447, 'lng': -74.0050074}
+General Greene	{'lat': 40.6896903, 'lng': -73.970327}
+Square Meal	{'lat': 40.7846831, 'lng': -73.9563204}
+The New French	{'lat': 40.721946, 'lng': -73.987285}
+Shalizar and Ravagh	{'lat': 40.7456526, 'lng': -73.98548989999999}
+Scarpetta	{'lat': 40.74093789999999, 'lng': -74.00481409999999}
+Rhong-Tiam	{'lat': 40.7396266, 'lng': -73.9884746}
+Eighty One	{'lat': 40.785791, 'lng': -73.97814799999999}
+Adour	{'lat': 40.76135329999999, 'lng': -73.974625}
+Blue Ribbon Downing Street Bar	{'lat': 40.7291792, 'lng': -74.003888}
+Ago	{'lat': 40.7198617, 'lng': -74.0100406}
+BAR Q	{'lat': 41.00215499999999, 'lng': -73.662426}
+Bar Boulud	{'lat': 40.77190400000001, 'lng': -73.981955}
+Mia Dona	{'lat': 40.7606096, 'lng': -73.96651159999999}
+Café Katja	{'lat': 40.7176814, 'lng': -73.9905954}
+Elettaria	{'lat': 40.7330651, 'lng': -73.9980058}
+Commerce	{'lat': 40.7317831, 'lng': -74.0045627}
+Spicy & Tasty	{'lat': 40.7404865, 'lng': -74.0060568}
+South Gate	{'lat': 40.76628669999999, 'lng': -73.9780237}
+Bobo	{'lat': 40.7344365, 'lng': -74.0026147}
+Allen & Delancey	{'lat': 40.76010900000001, 'lng': -73.98907410000001}
+Dovetail	{'lat': 40.7809408, 'lng': -73.9766199}
+Egg	{'lat': 40.716719, 'lng': -73.9616842}
+Market Table	{'lat': 40.729731, 'lng': -74.0037198}
+Smith’s	{'lat': 40.7715041, 'lng': -73.98185579999999}
+Park Avenue Winter	{'lat': 40.7420761, 'lng': -73.98538959999999}
+Fiamma	{'lat': 40.7635436, 'lng': -73.7698893}
+The Smith	{'lat': 40.7715041, 'lng': -73.98185579999999}
+Dell’Anima	{'lat': 40.7379835, 'lng': -74.0040368}
+Omido	{'lat': 40.7636912, 'lng': -73.98288509999999}
+Bar Blanc	{'lat': 40.7272819, 'lng': -74.00251949999999}
+Toloache	{'lat': 40.7764631, 'lng': -73.9566962}
+Peri Ela	{'lat': 40.78226799999999, 'lng': -73.95335200000001}
+Back Forty	{'lat': 40.723764, 'lng': -73.99690799999999}
+Kyo Ya	{'lat': 40.7266668, 'lng': -73.9853554}
+Stonehome Wine Bar	{'lat': 40.68739469999999, 'lng': -73.9748764}
+BLT Market	{'lat': 40.7653959, 'lng': -73.97620049999999}
+Taïm	{'lat': 40.7359917, 'lng': -74.00197159999999}
+Kefi	{'lat': 40.7852842, 'lng': -73.9726622}
+El Quinto Pino	{'lat': 40.747426, 'lng': -74.0011844}
+Wakiya	{'lat': 40.7405211, 'lng': -73.99172829999999}
+Zenkichi	{'lat': 40.71897719999999, 'lng': -73.960848}
+Gemma	{'lat': 40.7260522, 'lng': -73.99153830000002}
+Borough Food & Drink	{'lat': 40.687531, 'lng': -73.95716399999999}
+P*ong	{'lat': 40.73443750000001, 'lng': -74.0011566}
+Marlow & Sons	{'lat': 40.71067310000001, 'lng': -73.96565319999999}
+Hill Country	{'lat': 40.7442885, 'lng': -73.9904687}
+Ramen Setagaya	{'lat': 40.8520797, 'lng': -73.9719336}
+Café St. Bart’s	{'lat': 40.7571324, 'lng': -73.97343169999999}
+Insieme	{'lat': 40.76141039999999, 'lng': -73.982782}
+Flatbush Farm & the Farm on Adderley	{'lat': 40.6797904, 'lng': -73.9747283}
+Casellula	{'lat': 40.7649877, 'lng': -73.9883163}
+Perilla	{'lat': 40.732343, 'lng': -74.0022209}
+Provence	{'lat': 40.6829577, 'lng': -73.9928824}
+Palo Santo	{'lat': 40.6767825, 'lng': -73.9819417}
+Ed’s Lobster Bar	{'lat': 40.7220477, 'lng': -73.9976238}
+Mercat	{'lat': 40.7259614, 'lng': -73.9929858}
+Anthos	{'lat': 40.7602207, 'lng': -73.97748340000001}
+Brown Café	{'lat': 40.71585870000001, 'lng': -73.9903423}
+Lunetta	{'lat': 40.762412, 'lng': -73.959599}
+Morandi	{'lat': 40.7354058, 'lng': -74.0014786}
+Rosanjin	{'lat': 40.716488, 'lng': -74.0077507}
+Klee	{'lat': 40.7459431, 'lng': -74.0015021}
+Sripraphai	{'lat': 40.7464564, 'lng': -73.8992299}
+Amorina	{'lat': 40.67753219999999, 'lng': -73.96914210000001}
+Falai	{'lat': 40.72350369999999, 'lng': -73.99644719999999}
+Dressler	{'lat': 40.7104294, 'lng': -73.96312189999999}
+The Waverly Inn & Garden	{'lat': 40.73690879999999, 'lng': -74.0022139}
+Trestle On Tenth	{'lat': 40.748374, 'lng': -74.003373}
+Centovini	{'lat': 40.7257685, 'lng': -73.99796839999999}
+Kampuchea Noodle Bar	{'lat': 40.7204376, 'lng': -73.9893125}
+Bar Martignetti	{'lat': 40.72099459999999, 'lng': -73.9977746}
+BLT Burger	{'lat': 40.7092532, 'lng': -74.0137364}
+Café Cluny	{'lat': 40.737479, 'lng': -74.004032}
+THE RUSSIAN TEA ROOM	{'lat': 40.7649476, 'lng': -73.9794337}
+BOQUERIA	{'lat': 40.74025609999999, 'lng': -73.9937286}
+MAX BRENNER	{'lat': 40.7344163, 'lng': -73.991137}
+PAPATZUL	{'lat': 40.7221352, 'lng': -74.00370319999999}
+BRIDGE CAFÉ	{'lat': 40.703684, 'lng': -73.994861}
+ZUCCO: LE FRENCH DINER	{'lat': 40.7220162, 'lng': -73.9880246}
+BELLAVITAE	{'lat': 40.7304498, 'lng': -74.00131259999999}
+L’ATELIER DE JOËL ROBUCHON	{'lat': 40.7621879, 'lng': -73.97160629999999}
+CAFÉ D’ALSACE	{'lat': 40.7791752, 'lng': -73.9510411}
+THE TASTING ROOM	{'lat': 40.7169707, 'lng': -73.94283949999999}
+MOMOFUKU SSÄM BAR	{'lat': 40.73165119999999, 'lng': -73.9856929}
+DIRTY BIRD	{'lat': 40.7160375, 'lng': -74.0099956}
+DITCH PLAINS	{'lat': 40.7292062, 'lng': -74.0038015}
+USHIWAKAMARU	{'lat': 40.728041, 'lng': -74.0014909}
+CHINATOWN BRASSERIE	{'lat': 40.7276061, 'lng': -73.9935849}
+THE LITTLE OWL	{'lat': 40.73241429999999, 'lng': -74.0053095}
+Craftsteak	{'lat': 40.7381658, 'lng': -73.9886678}
+Sfoglia	{'lat': 40.78357340000001, 'lng': -73.9528093}
+Crema	{'lat': 40.7396641, 'lng': -73.9960342}
+Turks & Frogs Tribeca	{'lat': 40.73575499999999, 'lng': -74.0073809}
+Rack & Soul	{'lat': 40.54972830000001, 'lng': -74.3365274}
+The Good Fork	{'lat': 40.6759592, 'lng': -74.0142781}
+BG	{'lat': 40.7634763, 'lng': -73.9740989}
+PRE:POST	{'lat': 40.75099770000001, 'lng': -74.00441579999999}
+MR. CHOW TRIBECA	{'lat': 40.7201402, 'lng': -74.0087472}
+Degustation	{'lat': 40.7270926, 'lng': -73.9893056}
+A VOCE	{'lat': 40.767899, 'lng': -73.98293900000002}
+LAZZARA’S PIZZA CAFÉ	{'lat': 40.75401239999999, 'lng': -73.9895205}
+MORIMOTO AND BUDDAKAN	{'lat': 40.7422787, 'lng': -74.0048194}
+MOMOFUKU	{'lat': 40.729006, 'lng': -73.98467300000002}
+BOHEMIAN HALL AND BEER GARDEN	{'lat': 40.772838, 'lng': -73.915595}
+BOULEY, UPSTAIRS	{'lat': 40.71654780000001, 'lng': -74.0085947}
+TOCQUEVILLE	{'lat': 40.7366646, 'lng': -73.99270419999999}
+LODGE	{'lat': 40.7125621, 'lng': -73.9567204}
+COUNTRY	{'lat': 40.7655511, 'lng': -73.98770499999999}
+NOODLE PUDDING	{'lat': 40.6997749, 'lng': -73.9920246}
+DEL POSTO	{'lat': 40.74340339999999, 'lng': -74.007538}
+TELEPAN	{'lat': 40.77516, 'lng': -73.97992599999999}
+HONG KONG STATION	{'lat': 40.7642916, 'lng': -73.9826906}
+PEACOCK ALLEY	{'lat': 40.7566196, 'lng': -73.97386519999999}
+YAKITORI TOTTO	{'lat': 40.7653026, 'lng': -73.9831714}
+BLAUE GANS	{'lat': 40.7164622, 'lng': -74.00776859999999}
+LA ESQUINA	{'lat': 40.7213708, 'lng': -73.9975484}
+202	{'lat': 40.9233025, 'lng': -74.3063593}
+FATTY CRAB	{'lat': 40.7390982, 'lng': -74.0056357}
+D’OR AHN	{'lat': 40.5902993, 'lng': -74.28871219999999}
+Spigolo	{'lat': 40.7718417, 'lng': -73.9564625}
+Cookshop	{'lat': 40.745544, 'lng': -74.0053868}
+A.O.C. Bedford	{'lat': 40.73278929999999, 'lng': -74.0040534}
+Melba’s	{'lat': 40.8031125, 'lng': -73.9565983}
+Crispo	{'lat': 40.7391935, 'lng': -74.001753}
+Mo Pitkin’s House of Satisfaction	{'lat': 40.7233721, 'lng': -73.9853098}
+Uovo	{'lat': 40.72752609999999, 'lng': -73.97929789999999}
+Chubo	{'lat': 40.72106979999999, 'lng': -73.9839602}
+Bruno Jamais	{'lat': 40.7777163, 'lng': -73.9615915}
+Tides	{'lat': 40.90765500000001, 'lng': -73.58326199999999}
+Convivium Osteria	{'lat': 40.68104299999999, 'lng': -73.977509}
+Burger Joint	{'lat': 40.92850600000001, 'lng': -73.85326599999999}
+Perry St	{'lat': 40.73440220000001, 'lng': -74.0097191}
+Gusto	{'lat': 40.9722809, 'lng': -73.96189509999999}
+Mercadito	{'lat': 40.72761920000001, 'lng': -73.97916699999999}
+BLT Prime	{'lat': 40.73940350000001, 'lng': -73.9859898}
+A	{'lat': 40.74237429999999, 'lng': -73.98632429999999}
+The Stanton Social	{'lat': 40.7211478, 'lng': -73.9881}
+Alto	{'lat': 40.7343837, 'lng': -73.9982345}
+Bar Americain	{'lat': 40.7616498, 'lng': -73.9818464}
+The Modern	{'lat': 40.761081, 'lng': -73.976753}
+Yumcha	{'lat': 40.7156646, 'lng': -73.99670449999999}
+Una Pizza Napoletana	{'lat': 40.7305832, 'lng': -73.9847053}
+Clinton St. Baking Company & Restaurant	{'lat': 40.72114089999999, 'lng': -73.9838378}
+Cru	{'lat': 41.02121919999999, 'lng': -73.6308203}
+Landmarc	{'lat': 40.7689283, 'lng': -73.982749}
+Shake Shack	{'lat': 40.7584683, 'lng': -73.9892376}
+Sushi of Gari	{'lat': 40.7712864, 'lng': -73.9528227}
+Applewood	{'lat': 40.6656498, 'lng': -73.9820715}
+BLT Fish	{'lat': 40.7385978, 'lng': -73.9933697}
+V Steakhouse	{'lat': 40.76882150000001, 'lng': -73.9826003}
+Kittichai	{'lat': 40.724019, 'lng': -74.00312869999999}
+Bouillabaisse	{'lat': 40.73133440000001, 'lng': -74.0019138}
+De Marco’s Pizzeria	{'lat': 40.6250484, 'lng': -73.9615304}
+Porcupine	{'lat': 40.72275129999999, 'lng': -73.9944912}
+Casa Mono	{'lat': 40.73592719999999, 'lng': -73.98716379999999}
+Dinosaur Bar-B-Que	{'lat': 40.7347521, 'lng': -74.1701835}
+Tempo	{'lat': 40.76131150000001, 'lng': -73.9675393}
+Pure	{'lat': 40.7642628, 'lng': -73.98806429999999}
+Megu	{'lat': 40.75238189999999, 'lng': -73.96765719999999}
+Paola’s	{'lat': 40.7847314, 'lng': -73.95580149999999}
+Abboccato	{'lat': 40.7635598, 'lng': -73.9797091}
+l’Impero	{'lat': 40.7492566, 'lng': -73.9700502}
+Café Luxembourg	{'lat': 40.7774053, 'lng': -73.9831569}
+Little Giant	{'lat': 40.7180333, 'lng': -73.990385}
+Lure Fishbar	{'lat': 40.7246651, 'lng': -73.9982612}
+Café Regular	{'lat': 40.6751116, 'lng': -73.97548580000002}
+Russian Samovar	{'lat': 40.7631638, 'lng': -73.98474089999999}
+Franny’s	{'lat': 40.6759502, 'lng': -73.97183749999999}
+Café Sabarsky	{'lat': 40.78123469999999, 'lng': -73.960253}
+Kenka	{'lat': 40.72913, 'lng': -73.98846499999999}
+Barbès	{'lat': 40.74932939999999, 'lng': -73.98231799999999}
+Freeman’s	{'lat': 40.721956, 'lng': -73.99246}
+Wolfgang’s Steakhouse	{'lat': 40.7466875, 'lng': -73.982114}
+Beppe	{'lat': 40.7398221, 'lng': -73.9873025}
+Hearth	{'lat': 40.73000330000001, 'lng': -73.9832223}
+5 Ninth	{'lat': 40.7396873, 'lng': -74.0067241}
+Mas	{'lat': 40.7293569, 'lng': -74.0039633}
+Blue Hill at Stone Barns	{'lat': 40.73207170000001, 'lng': -73.9996555}
+No. 1 Chinese	{'lat': 40.70472220000001, 'lng': -74.0105963}
+Ixta	{'lat': 40.7415019, 'lng': -73.9993853}
+Bao 111	{'lat': 40.7243126, 'lng': -73.97884189999999}
+360	{'lat': 40.9515468, 'lng': -73.73587169999999}
+Jack’s Luxury Oyster Bar	{'lat': 40.7273889, 'lng': -73.9887585}
+Daisy May’s	{'lat': 40.7633835, 'lng': -73.9968186}
+Fondue	{'lat': 40.7245066, 'lng': -74.0057522}
+Barbuto	{'lat': 40.73776779999999, 'lng': -74.008014}
+The Spotted Pig	{'lat': 40.7356354, 'lng': -74.006691}
+Westville	{'lat': 40.7417653, 'lng': -74.00015719999999}
+The Biltmore Room	{'lat': 40.7649476, 'lng': -73.9794337}
+Public	{'lat': 40.7221655, 'lng': -73.99411669999999}
+Dinerbar	{'lat': 40.7497866, 'lng': -73.977542}
+Counter	{'lat': 40.7236452, 'lng': -73.9789804}
+Diner	{'lat': 40.7106879, 'lng': -73.9655837}
+San Pietro	{'lat': 40.76051809999999, 'lng': -73.9744535}
+Bongo	{'lat': 40.7330165, 'lng': -74.00997149999999}
+Mr. Chow	{'lat': 40.75870219999999, 'lng': -73.9644314}
+D’Amico	{'lat': 40.6834909, 'lng': -73.9951696}
+Matsuri	{'lat': 40.74215219999999, 'lng': -74.0038937}
+Uncle Jack’s Steakhouse	{'lat': 40.763082, 'lng': -73.976619}
+Capitale	{'lat': 40.7511656, 'lng': -73.97488369999999}
+Les Enfants Terribles	{'lat': 40.7136582, 'lng': -73.9887408}
+Amma	{'lat': 40.755539, 'lng': -73.968738}
+Nice Matin	{'lat': 40.7833911, 'lng': -73.97840959999999}
+Schiller’s Liquor Bar	{'lat': 40.719352, 'lng': -73.986694}
+KAI	{'lat': 40.8435172, 'lng': -73.8458572}
+Sample	{'lat': 40.7995261, 'lng': -73.6501859}
+Robert’s Steakhouse	{'lat': 40.75139589999999, 'lng': -74.0035869}
+Pylos	{'lat': 40.72612480000001, 'lng': -73.9840713}
+Justin’s	{'lat': 40.6647162, 'lng': -73.7345433}
+Lever House Restaurant	{'lat': 40.7595244, 'lng': -73.9730768}
+Montrachet	{'lat': 40.7195598, 'lng': -74.0057489}
+Rug-B	{'lat': 40.6404188, 'lng': -73.96576209999999}
+Lunchbox Food Co.	{'lat': 40.961269, 'lng': -73.842064}
+Harry Cipriani	{'lat': 40.76436499999999, 'lng': -73.9725292}
+Zerza	{'lat': 40.7268118, 'lng': -73.98756829999999}
+El Paso Taquería	{'lat': 40.7873603, 'lng': -73.95276319999999}
+WD-50	{'lat': 40.719684, 'lng': -73.984691}
+Lovely Day	{'lat': 40.72179149999999, 'lng': -73.9943673}
+P. J. Clarke’s	{'lat': 40.7589094, 'lng': -73.9680422}
+Taste	{'lat': 40.9401988, 'lng': -74.0308129}
+The Carriage House	{'lat': 40.728154, 'lng': -74.3091954}
+Joe and Pat’s	{'lat': 40.61293999999999, 'lng': -74.1220934}
+Pampano	{'lat': 40.75542009999999, 'lng': -73.97058}
+Nanni	{'lat': 40.91044369999999, 'lng': -74.07535949999999}
+Blue Hill	{'lat': 40.73207170000001, 'lng': -73.9996555}
+Quercy	{'lat': 40.6857511, 'lng': -73.994407}
+Superfine	{'lat': 40.7022345, 'lng': -73.9874098}
+Brasserie 8 1/2	{'lat': 40.7636669, 'lng': -73.9750445}
+DRK	{'lat': 40.72890350000001, 'lng': -74.0016012}
+Thomas Beisl	{'lat': 40.686977, 'lng': -73.97787439999999}
+Casa	{'lat': 40.7314902, 'lng': -74.0047886}
+Kori	{'lat': 40.7178583, 'lng': -74.0053514}
+Pazo	{'lat': 40.7489165, 'lng': -73.9725242}
+Aix	{'lat': 41.059295, 'lng': -73.83247899999999}
+Zum Schneider	{'lat': 40.72425399999999, 'lng': -73.978917}
+Sapori D’Ischia	{'lat': 40.7507102, 'lng': -73.9063395}
+Jewel Bako 239 E. 5th St. (979-1012)	{'lat': 40.72703260000001, 'lng': -73.9893448}
+Salt	{'lat': 40.7432483, 'lng': -73.922923}
+Locanda Vini & Olii	{'lat': 40.684954, 'lng': -73.96293949999999}
+Épicerie/Café Charbon	{'lat': 40.72127149999999, 'lng': -73.98852029999999}
+Dos Caminos	{'lat': 40.755862, 'lng': -73.97040199999999}
+Five Points	{'lat': 40.56703, 'lng': -73.88757199999999}
+The Basil	{'lat': 40.8741181, 'lng': -73.5968104}
+Bouley	{'lat': 40.7169501, 'lng': -74.0089346}
+Delegates’ Dining Room	{'lat': 40.749578, 'lng': -73.9670955}
+Beyoglu	{'lat': 40.7754057, 'lng': -73.9561835}
+BB Sandwich Bar	{'lat': 40.7305016, 'lng': -74.000411}
+Grocery	{'lat': 40.7339819, 'lng': -74.0013788}
+Atelier	{'lat': 40.7654343, 'lng': -73.97603409999999}
+Craft 43 E. 19th St. (780-0880)	{'lat': 40.7381658, 'lng': -73.9886678}
+Washington Park	{'lat': 40.6749663, 'lng': -73.96338039999999}
+Blue Smoke	{'lat': 40.7422779, 'lng': -73.98374969999999}
+Strip House	{'lat': 40.7345067, 'lng': -73.9933106}
+Nam	{'lat': 40.71810379999999, 'lng': -73.9943667}
+Annisa	{'lat': 40.7325755, 'lng': -74.00244289999999}
+Bid	{'lat': 40.6909902, 'lng': -73.99631289999999}
+The Harrison	{'lat': 40.745361, 'lng': -74.16336}
+Blue Fin	{'lat': 40.7593299, 'lng': -73.98572209999999}
+Ustav	{'lat': 40.7578214, 'lng': -73.9825183}
+Punch	{'lat': 40.73963820000001, 'lng': -73.9899289}
+DB Bistro Moderne	{'lat': 40.7559471, 'lng': -73.9821138}
+Wallsé	{'lat': 40.73540819999999, 'lng': -74.0082365}
+Castellano	{'lat': 40.7529092, 'lng': -73.9719812}
+Viand Coffee Shop	{'lat': 40.764865, 'lng': -73.97021749999999}
+Bahar	{'lat': 40.6334555, 'lng': -73.9672963}
+Arezzo	{'lat': 40.74170460000001, 'lng': -73.99246529999999}
+AQ Café Scandinavia House	{'lat': 40.74941979999999, 'lng': -73.9800144}
+Baldoria	{'lat': 40.79394449999999, 'lng': -73.9342205}
+Cooke’s Corner	{'lat': 40.7902557, 'lng': -73.973378}
+Ilo	{'lat': 40.7528355, 'lng': -73.9837701}
+Artisanal	{'lat': 40.74619519999999, 'lng': -73.9829051}
+Town	{'lat': 40.73761, 'lng': -73.98916}
+Inside	{'lat': 40.7571324, 'lng': -73.97343169999999}
+Tamarind	{'lat': 40.7191069, 'lng': -74.00902649999999}
+Blue Ribbon	{'lat': 40.72544529999999, 'lng': -74.00300419999999}
+Ithaka	{'lat': 40.7774445, 'lng': -73.9512804}
+Tibetan Yak	{'lat': 40.7465006, 'lng': -73.8928008}
+Sipan	{'lat': 40.792996, 'lng': -73.9715258}
+Daniel	{'lat': 40.7667384, 'lng': -73.9676095}
+Ouest	{'lat': 40.78701950000001, 'lng': -73.97814919999999}
+Hampton Chutney Co.	{'lat': 40.72005100000001, 'lng': -73.999591}
+Manducatis	{'lat': 40.744584, 'lng': -73.9491157}
+Atlas	{'lat': 40.634501, 'lng': -73.9669837}
+Bayou	{'lat': 40.6168134, 'lng': -74.068367}
+Olives	{'lat': 40.7251667, 'lng': -73.99988019999999}
+Mexicana Mama	{'lat': 40.7340436, 'lng': -74.0064582}
+Grand Central Degustation	{'lat': 40.7524862, 'lng': -73.9774231}
+Fleur de Sel	{'lat': 40.7395891, 'lng': -73.9902836}
+FIRE AND ICE	{'lat': 41.0544005, 'lng': -74.0697146}
