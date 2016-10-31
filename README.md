@@ -20,9 +20,9 @@ Here’s how it works:
 4. Format [Restaurant Name, Lat, Lng] for loading into Google Maps javascript.
 
 Relevant notebooks:
-[T4T_scrape_database.ipynb](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_scrape_database_161028.ipynb)
 
-[T4T_ExploratoryDataAnalysis.ipynb](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_ExploratoryDataAnalysis_161028.ipynb)
+* [T4T_scrape_database.ipynb](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_scrape_database_161028.ipynb)
+* [T4T_ExploratoryDataAnalysis.ipynb](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_ExploratoryDataAnalysis_161028.ipynb)
 
 
 ![T4T_Map](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_google-maps_Nishi.png)
