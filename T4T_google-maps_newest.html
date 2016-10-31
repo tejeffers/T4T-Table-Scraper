@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+  <title>The New Yorker: Tables for Two</title> 
+  <script src="http://maps.google.com/maps/api/js?sensor=false" 
+          type="text/javascript"></script>
+</head> 
+<body>
+  <div id="map" style="width: 1000px; height: 800px;"></div>
+
+  <script type="text/javascript">
+    var locations = [['<a href="http://www.newyorker.com/magazine/2016/07/11/nix-tables-for-two">Harold\'s Meat + Three</a>', 40.72455, -74.008624, 805], ['<a href="http://www.newyorker.com/magazine/2016/10/31/the-lucky-bees-unconventional-thai-street-food">The Lucky Bee</a>', 40.718413, -73.989806, 804], ['<a href="http://www.newyorker.com/magazine/2016/10/24/pondicheris-nirvanic-dishes">Pondicheri</a>', 40.744717, -73.988235, 803], ['<a href="http://www.newyorker.com/magazine/2016/10/17/1633-strange-and-wonderful-on-the-upper-east-side">1633</a>', 40.777433, -73.952624, 802], ['<a href="http://www.newyorker.com/magazine/2016/10/10/a-disneyland-of-organic-delights-at-olmsted">Olmsted</a>', 40.677291, -73.968713, 801], ['<a href="http://www.newyorker.com/magazine/2016/10/03/dining-for-the-modern-herbivore">Ladybird</a>', 40.730923, -74.000177, 800], ['<a href="http://www.newyorker.com/magazine/2016/09/26/rich-refinement-at-le-coucou">Le Coucou</a>', 40.719383, -74.00025, 799], ['<a href="http://www.newyorker.com/magazine/2016/09/19/the-garment-districts-lunches-a-la-mode">Lunch a la Mode</a>', 40.754385, -73.991801, 798], ['<a href="http://www.newyorker.com/magazine/2016/09/12/pisillo-italian-panini-tables-for-two">Pisillo Italian Panini</a>', 40.710538, -74.007619, 797], ['<a href="http://www.newyorker.com/magazine/2016/09/05/mimi-tables-for-two">Mimi</a>', 40.728348, -74.00065, 796], ['<a href="http://www.newyorker.com/magazine/2016/08/29/hao-noodles-and-tea-by-madame-zhus-kitchen-tables-for-two">Hao Noodles and Tea</a>', 40.733505, -74.000015, 795], ['<a href="http://www.newyorker.com/magazine/2016/08/22/le-district">Le District</a>', 40.711983, -74.015264, 794], ['<a href="http://www.newyorker.com/magazine/2016/08/08/the-pandering-pig-tables-for-two">The Pandering Pig</a>', 40.855134, -73.937614, 793], ['<a href="http://www.newyorker.com/magazine/2016/08/01/barano-tables-for-two">Barano</a>', 40.71032, -73.96783, 792], ['<a href="http://www.newyorker.com/magazine/2016/07/25/covina-tables-for-two">Covina</a>', 40.742227, -73.983447, 791], ['<a href="http://www.newyorker.com/magazine/2016/07/11/nix-tables-for-two">Finding the Joy in Plants</a>', 40.7127837, -74.0059413, 1], ['<a href="http://www.newyorker.com/magazine/2016/07/04/le-garage-tables-for-two">Le Garage</a>', 40.699257, -73.92670629999999, 2], ['<a href="http://www.newyorker.com/magazine/2016/06/27/the-original-crab-shanty-tables-for-two">The Original Crab Shanty</a>', 40.8486231, -73.7872819, 3], ['<a href="http://www.newyorker.com/magazine/2016/06/20/bar-omar-tables-for-two">Bar Omar</a>', 40.7140803, -73.960835, 4], ['<a href="http://www.newyorker.com/magazine/2016/06/06/kang-ho-dong-baekjeong-tables-for-two">Kang Ho Dong Baekjeong</a>', 40.747143, -73.9854137, 5]];
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+      center: new google.maps.LatLng(40.7841,-73.9661),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+
+    for (i = 0; i < locations.length; i++) {  
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+		  url: locations[i][4],
+		  title: 'This link opens the original T4T review page',
+        map: map
+      });
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+  </script>
+</body>
+</html>

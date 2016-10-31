@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+  <title>The New Yorker: Tables for Two</title> 
+  <script src="http://maps.google.com/maps/api/js?sensor=false" 
+          type="text/javascript"></script>
+</head> 
+<body>
+  <div id="map" style="width: 1000px; height: 800px;"></div>
+
+  <script type="text/javascript">
+    var locations = [['<a href="http://www.newyorker.com/magazine/2001/02/19/fleur-de-sel">Fleur de Sel</a>', 40.7395658, -73.99027579999999, 685], ['<a href="http://www.newyorker.com/magazine/2001/03/19/mexicana-mama">Mexicana Mama</a>', 40.734068, -74.0066538, 683], ['<a href="http://www.newyorker.com/magazine/2001/03/26/olives">Olives</a>', 40.7127837, -74.0059413, 682], ['<a href="http://www.newyorker.com/magazine/2001/04/09/bayou">Bayou</a>', 40.8101601, -73.9511598, 681], ['<a href="http://www.newyorker.com/magazine/2001/04/16/atlas-3">Atlas</a>', 40.765125, -73.9756694, 680], ['<a href="http://www.newyorker.com/magazine/2001/05/14/hampton-chutney-co">Hampton Chutney Co.</a>', 40.7236881, -73.9968729, 678], ['<a href="http://www.newyorker.com/magazine/2001/05/21/ouest">Ouest</a>', 40.7870225, -73.9781294, 677], ['<a href="http://www.newyorker.com/magazine/2001/06/04/daniel">Daniel</a>', 40.7666933, -73.9677689, 676], ['<a href="http://www.newyorker.com/magazine/2001/06/18/sipan">Sipan</a>', 40.792996, -73.9715259, 675], ['<a href="http://www.newyorker.com/magazine/2001/07/30/blue-ribbon">Blue Ribbon</a>', 40.7254507, -74.0030091, 671], ['<a href="http://www.newyorker.com/magazine/2001/08/13/tamarind">Tamarind</a>', 40.7399149, -73.9874533, 670], ['<a href="http://www.newyorker.com/magazine/2001/08/20/inside-4">Inside</a>', 40.7323362, -74.00220639999999, 669], ['<a href="http://www.newyorker.com/magazine/2001/09/03/town">Town</a>', 40.7629627, -73.9753758, 668], ['<a href="http://www.newyorker.com/magazine/2001/09/17/artisanal">Artisanal</a>', 40.7462972, -73.98249369999999, 667], ['<a href="http://www.newyorker.com/magazine/2001/09/24/ilo">Ilo</a>', 40.75281280000001, -73.98376499999999, 666], ['<a href="http://www.newyorker.com/magazine/2001/10/08/cookes-corner">Cooke’s Corner</a>', 40.7902516, -73.9731722, 665], ['<a href="http://www.newyorker.com/magazine/2001/10/22/aq-cafe-scandinavia-house">AQ Café Scandinavia House</a>', 40.74943529999999, -73.9800399, 663], ['<a href="http://www.newyorker.com/magazine/2001/11/05/arezzo">Arezzo</a>', 40.7416984, -73.99245789999999, 662], ['<a href="http://www.newyorker.com/magazine/2002/07/22/bb-sandwich-bar">BB Sandwich Bar</a>', 40.7304052, -74.0005194, 640], ['<a href="http://www.newyorker.com/magazine/2002/09/16/the-basil">The Basil</a>', 40.744116, -73.9962038, 635]];
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+      center: new google.maps.LatLng(40.7841,-73.9661),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+
+    for (i = 0; i < locations.length; i++) {  
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+		  url: locations[i][4],
+		  title: 'This link opens the original T4T review page',
+        map: map
+      });
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+  </script>
+</body>
+</html>
