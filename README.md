@@ -1,7 +1,6 @@
 # T4T-Table-Scraper
-scrape &amp; map The New Yorker Tables for Two reviews
+Scrape &amp; Map The New Yorker Tables for Two reviews
 
-New York City has some of the best bars and restaurants in the world. Step out on any random avenue and something incredibly tasty is mere minutes away. The problem? Food is everywhere, and there’s only so many calories (and money) in the day. Technology is trying to help: Yelp can give you a list of nearby restaurants satisfying your search query, or tell you where the best tacos are in the city. But: user-based ratings can be misleading and biased (at best), or downright fraudulent (at worst). Newspapers and magazines have long employed expert food critics to get around this issue. Unfortunately, that critical data is quickly forgotten to the deep paper media e-archive. 
 
 Here, I’ve used python’s open source beautifulsoup, geopy location services, and Google’s ‘requests’ API to scrape The New Yorker’s Tables for Two restaurant reviews, dating all the way back to 1936! Some have closed, some have moved, 
 
@@ -20,7 +19,12 @@ Here’s how it works:
   (so far, neither is perfect…)
 4. Format [Restaurant Name, Lat, Lng] for loading into Google Maps javascript.
 
-![alt tag](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_google-maps_Nishi.png)
+Relevant notebooks:
+[T4T_scrape_database.ipynb](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_scrape_database_161028.ipynb)
+[T4T_ExploratoryDataAnalysis.ipynb](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_ExploratoryDataAnalysis_161028.ipynb)
+
+T4T_
+![T4T_Map](https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_google-maps_Nishi.png)
 
 
 To Do:
