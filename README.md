@@ -1,6 +1,8 @@
 # T4T-Table-Scraper
 Scrape &amp; Map The New Yorker Tables for Two reviews
 
+[View map] (http://htmlpreview.github.io/?https://github.com/tejeffers/T4T-Table-Scraper/blob/master/T4T_google-maps_102816.html) 
+
 
 Here, I’ve used python’s open source beautifulsoup, geopy location services, and Google’s ‘requests’ API to scrape The New Yorker’s Tables for Two restaurant reviews, dating all the way back to 1936! Some have closed, some have moved, 
 
